@@ -1,0 +1,23 @@
+﻿@model HelloWorld.Models.IndexViewModel
+@{
+    ViewBag.Title = "Личный кабинет";
+}
+
+<link rel="stylesheet" href="../../../Content/css/registration.css">
+
+<div class="personal_cabinet">
+    <h2>@ViewBag.Title</h2>
+    <h4>Параметры учетной записи</h4>
+    <p><strong>Email:</strong> @User.Identity.Name</p>
+
+    <p>
+        @if (Model.HasPassword)
+        {
+            @Html.ActionLink("Измените пароль", "ChangePassword")
+        }
+        else
+        {
+            @Html.ActionLink("Создать", "SetPassword")
+        }
+    </p>
+</div>

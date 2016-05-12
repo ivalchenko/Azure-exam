@@ -1,0 +1,96 @@
+html, body {
+    height:100%;
+}
+
+@font-face {
+font-family:'a_Monumento_DemiBold_ttf';
+src: url('../font/a_Monumento_DemiBold.ttf');
+}
+
+@font-face {
+font-family:'a_Monumento_DemiBold_eot';
+src: url('../font/a_Monumento_DemiBold_EOT.eot');
+}
+
+#content_container {
+	padding-top: 5.5%; /*5.35*/
+}
+
+/*New code BLOG MENU added*/
+
+#content_container {
+	height: 86%;
+}
+
+#content_container div {
+	width: 31.3%;
+	height: 100%;
+	float: left;
+	margin-left: 1.5%;
+	text-align: center;
+	background-color: #ecebe9;
+	/*PADDING for img*/
+	padding-top: 2.5em;
+}
+
+#content_container div:hover {
+	background-color: #cdcdc5;
+	box-shadow: 0 0 0.5em rgba(0,0,0,0.5);
+
+	-webkit-transition: all 0.58s ease;
+	-moz-transition: all 0.58s ease;
+	-ms-transition: all 0.58s ease;
+	-o-transition: all 0.58s ease;
+	transition: all 0.58s ease;
+}
+
+#content_container a div img {
+	/*width: 20em;*/
+	width: 8em;
+	opacity: 0.8;
+    filter: alpha(opacity=80);
+}
+
+#content_container div:hover img {
+	opacity: 1;
+    filter: alpha(opacity=100);
+
+	-webkit-transition: all 0.58s ease;
+	-moz-transition: all 0.58s ease;
+	-ms-transition: all 0.58s ease;
+	-o-transition: all 0.58s ease;
+	transition: all 0.58s ease;
+}
+
+#content_container a div p {
+	opacity: 0;
+	color: #323236;
+	font-family: a_Monumento_DemiBold_ttf, a_Monumento_DemiBold_eot, Arial;
+	padding: 0 4% 0 4%;
+	padding-top: 0.7em;
+}
+
+#content_container div:hover p {
+	opacity: 1;
+
+	-webkit-transition: all 0.58s ease;
+	-moz-transition: all 0.58s ease;
+	-ms-transition: all 0.58s ease;
+	-o-transition: all 0.58s ease;
+	transition: all 0.58s ease;
+}
+
+#content_container a {
+	text-decoration: none;
+}
+
+#content_container a div h3 {
+	color: #323236;
+	font-size: 1.8em;
+	font-family: a_Monumento_DemiBold_ttf, a_Monumento_DemiBold_eot, Arial;
+	padding-top: 0.95em;
+}
+
+#content_container div:hover h3 {
+	color: #000000;
+}

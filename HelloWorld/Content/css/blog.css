@@ -1,0 +1,238 @@
+@font-face {
+font-family:'a_Monumento_DemiBold_ttf';
+src: url('../font/a_Monumento_DemiBold.ttf');
+}
+
+@font-face {
+font-family:'a_Monumento_DemiBold_eot';
+src: url('../font/a_Monumento_DemiBold_EOT.eot');
+}
+
+.post a {
+	color: #0084b4;
+	text-decoration: underline;
+}
+
+.post a:hover {
+	color: #55acee;
+}
+
+.post {
+	padding: 1em;
+	/*background-color: yellow;*/
+}
+
+.post h3 {
+	text-align: left;
+	font-size: 1.3em;
+}
+
+.post p{
+	padding: 0;
+	margin: 0.4em 0 0 -2em;
+}
+
+.post-footer {
+	color: #636363;
+	list-style-type: none;
+	margin: -1em 0 0 -0.5em;
+}
+
+.post-footer li {
+	display: inline-block;
+	margin-left: 0.5em;
+}
+
+.post-control-panel {
+	list-style-type: none;
+	margin-top: 0.5em;
+}
+
+.post-control-panel li {
+	display: inline-block;
+	margin-right: 0.5em;
+}
+
+.post-control-panel li a {
+	text-decoration: none;
+	background: #0084b4;
+	color: #fff;
+	display: block;
+	padding: 4px 10px;
+	margin-top: 1.5%;
+}
+
+.post-control-panel li a:hover {
+	color: #fff;
+	background: #55acee;
+}
+
+.post-create-button a  {
+	display: block;
+	background: url(../img/create.png) no-repeat;
+	background-size: 3.5%;
+	padding: 0.5em 0 0.8em 2.8em;
+	margin-left: -1em;
+	margin-bottom: -1.5em;
+}
+
+/*Инпуты для формы добавления комментария*/
+
+.comment-create-form input[name="Date"] {
+	visibility: hidden;
+}
+
+/*Работа с комментариями*/
+
+h5 {
+	border-bottom: 0.11em solid #000000;
+	padding-bottom: 0.5em;
+	margin-top: 1.5em;
+}
+
+.comment-create-form {
+	margin-bottom: 2em;
+}
+
+.comment-create-form textarea {
+	margin-top: 1em;
+}
+
+.comment-create-form input[type="submit"] {
+	display: block;
+	background: #0084b4;
+	color: #fff;
+	display: block;
+	padding: 4px 10px;
+	margin-top: 1%;
+	border: none;
+	display: inline-block;
+	margin-right: 1em;
+}
+
+.comment form input[type="file"] {
+	display: inline-block;
+}
+
+.comment-create-form input[type="checkbox"] {
+	margin-left: -2em;
+}
+
+input[type="submit"]:hover {
+	background: #55acee;
+}
+
+/*Оформление отдельного комментария*/
+
+.comment {
+	margin-bottom: 3em;
+}
+
+.comment div:first-of-type {
+	width: 5.5em;
+	float: left;
+}
+
+.avatar-wrapper img {
+	width: 5em;
+}
+
+.comment div:first-of-type {
+	width: 5.5em;
+	float: left;
+}
+
+.comment-area p:first-of-type {
+	margin-bottom: -1.4em;
+}
+
+.comment-area p:first-of-type span {
+	color: #bdbdbd;
+	font-size: 0.9em;
+	padding-left: 0.6em;
+}
+
+.comment-area p:last-of-type {
+	margin-bottom: -1em;
+}
+
+/*Кнопка удаления комментария*/
+
+.comment form input[type="submit"] {
+	border: none;
+	background: none;
+	text-decoration: underline;
+	color: #0084b4;
+}
+
+.comment form input[type="submit"]:hover {
+	color: #55acee;
+}
+
+/*Оформление списка тегов под постом*/
+
+.tags {
+	list-style-type: none;
+	margin-top: -1em;
+	margin-bottom: 1.2em;
+}
+
+.tags li {
+	display:  inline-block;
+	margin-right: 0.1em;
+}
+
+.tags a {
+	text-decoration: none;
+}
+
+.tags a:hover {
+	text-decoration: underline;
+}
+
+/*Лайки*/
+
+.like-button {
+	background: none;
+	border: none;
+	font-size: 1em;
+	color: #636363;
+	margin-left: -0.35em;
+}
+
+.like-button:hover {
+	color: #de3636;
+}
+
+.answer-button {
+	font-size: 13.5px;
+	float: left;
+	margin-top: 0.2em;
+	margin-right: 0.5em;
+}
+
+/* Картинка в комментариях */
+
+.comment-image-wrapper {
+	margin-top: 2em;
+	margin-bottom: -2em;
+	margin-left: 5.5em;
+}
+
+.comment-image-wrapper img {
+	width: 10em;
+}
+
+.comment-image-wrapper a:hover {
+	opacity: 0.6;
+}
+
+.hidden-message {
+	color: #bdbdbd;
+}
+
+
+
+
+
+

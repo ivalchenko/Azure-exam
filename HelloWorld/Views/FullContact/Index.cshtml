@@ -1,0 +1,26 @@
+﻿@{
+    ViewBag.Title = "Full Contact";
+}
+
+<link rel="stylesheet" href="../../../Content/css/info.css">
+
+<div class="info-input-wrapper">
+    <h4>Введите email интересующего вас человека.</h4>
+    <p>i.valchenk@hotmail.com</p>
+    <p>player@gmail.com</p>
+
+    <form action="/FullContact/Info" method="post">
+        <input type="text" name="email" /><br />
+        <input type="submit" value="Отправить" />
+    </form>
+
+    @section Scripts {
+        @Scripts.Render("~/bundles/jqueryval")
+    }
+
+</div>
+
+
+
+
+

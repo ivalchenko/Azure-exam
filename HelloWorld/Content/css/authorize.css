@@ -1,0 +1,81 @@
+@font-face {
+font-family:'a_Monumento_DemiBold_ttf';
+src: url('../font/a_Monumento_DemiBold.ttf');
+}
+
+@font-face {
+font-family:'a_Monumento_DemiBold_eot';
+src: url('../font/a_Monumento_DemiBold_EOT.eot');
+}
+
+@font-face {
+font-family:'Europe_otf';
+src: url('../font/Europe.otf');
+}
+
+@font-face {
+font-family:'Europe_eot';
+src: url('../font/Europe_EOT.eot');
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+	min-width: 980px;
+	max-width: 2000px;
+	margin: 0 auto;
+	background-color: #000000;
+	color: #ffffff;
+}
+
+/*IMG border for IE*/
+
+a img {
+	border: none;
+}
+
+div {
+	padding-top: 3%;
+	text-align: center;
+}
+
+div img {
+	width: 55em;
+}
+
+form {
+	padding-top: 6%;
+	text-align: center;
+	font-size: 1.5em;
+}
+
+form input:first-of-type {
+	background-color: #000000;
+	color: #ffffff;
+	border: 0.2em solid #f4f6f3;
+	padding: 0.3em;
+	border-radius: 0.5em;
+}
+
+form input:last-of-type {
+	background-color: #000000;
+	color: #ffffff;
+	border: 0.2em solid #f4f6f3;
+	padding: 0.3em;
+	border-radius: 0.5em;
+	margin-left: 0.5em;
+	font-weight: bold;
+}
+
+form input:last-of-type:hover {
+	background-color: #ffffff;
+	color: #000000;
+}
+
+p {
+	color: red;
+}
+

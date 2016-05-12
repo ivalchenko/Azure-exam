@@ -1,0 +1,1067 @@
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\HelloWorld.dll.config
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\HelloWorld.dll
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\HelloWorld.pdb
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Antlr3.Runtime.dll
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\EntityFramework.dll
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\EntityFramework.SqlServer.dll
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Microsoft.Owin.dll
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.dll
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Google.dll
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Microsoft.Web.Infrastructure.dll
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Newtonsoft.Json.dll
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Owin.dll
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\System.Web.Helpers.dll
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\System.Web.Mvc.dll
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\System.Web.Optimization.dll
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\System.Web.Razor.dll
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\System.Web.WebPages.Deployment.dll
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\System.Web.WebPages.dll
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\System.Web.WebPages.Razor.dll
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\WebGrease.dll
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\System.Web.Helpers.xml
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\System.Web.Mvc.xml
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\System.Web.Optimization.xml
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\System.Web.Razor.xml
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\System.Web.WebPages.xml
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\System.Web.WebPages.Deployment.xml
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\System.Web.WebPages.Razor.xml
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Antlr3.Runtime.pdb
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Newtonsoft.Json.xml
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\EntityFramework.xml
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\EntityFramework.SqlServer.xml
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Microsoft.Owin.xml
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.xml
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Google.xml
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
+c:\users\ilia\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\IliA\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations.InitialCreate.resources
+C:\Users\IliA\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
+C:\Users\IliA\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._20150620.resources
+C:\Users\IliA\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506202249.resources
+C:\Users\IliA\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506202312.resources
+C:\Users\IliA\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211018.resources
+C:\Users\IliA\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211129.resources
+C:\Users\IliA\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211312.resources
+C:\Users\IliA\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211401.resources
+C:\Users\IliA\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211532.resources
+C:\Users\IliA\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211700.resources
+C:\Users\IliA\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211719.resources
+C:\Users\IliA\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._1808.resources
+C:\Users\IliA\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations.add_comments.resources
+C:\Users\IliA\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506212155.resources
+C:\Users\IliA\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506212319.resources
+C:\Users\IliA\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._20150622942.resources
+C:\Users\IliA\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506221013.resources
+C:\Users\IliA\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506221050.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\HelloWorld.dll.config
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\HelloWorld.dll
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\HelloWorld.pdb
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Antlr3.Runtime.dll
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\EntityFramework.dll
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\EntityFramework.SqlServer.dll
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Microsoft.Owin.dll
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.dll
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Newtonsoft.Json.dll
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Owin.dll
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\System.Web.Helpers.dll
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\System.Web.Mvc.dll
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\System.Web.Optimization.dll
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\System.Web.Razor.dll
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\System.Web.WebPages.Deployment.dll
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\System.Web.WebPages.dll
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\System.Web.WebPages.Razor.dll
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\WebGrease.dll
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\System.Web.Helpers.xml
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\System.Web.Mvc.xml
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\System.Web.Optimization.xml
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\System.Web.Razor.xml
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\System.Web.WebPages.xml
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\System.Web.WebPages.Deployment.xml
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\System.Web.WebPages.Razor.xml
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Antlr3.Runtime.pdb
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Newtonsoft.Json.xml
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\EntityFramework.xml
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\EntityFramework.SqlServer.xml
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Microsoft.Owin.xml
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.xml
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations.InitialCreate.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._20150620.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506202249.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506202312.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211018.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211129.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211312.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211401.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211532.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211700.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211719.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._1808.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations.add_comments.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506212155.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506212319.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._20150622942.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506221013.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506221050.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506222203.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations.NightMigration.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506222357.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations.newnewnew.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506220035.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506220046.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506230915.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._20150623942.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231006.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231011.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231028.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231034.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231111.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231120.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506221217.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231224.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._20150623.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231431.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._2015rfvgdfbefb.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231558.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231716.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506232227.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506232244.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506232258.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._240620150015.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._240620150018.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240055.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240102.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240130.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240133.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240138.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._20150624.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240926.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240944.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240957.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241114.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241207.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241248.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241303.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241341.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241343.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241404.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241408.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241437.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241624.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241645.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241746.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241807.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506242100.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506250925.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506250938.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506250951.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506250957.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506251002.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506251004.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506251006.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506251014.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506251035.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations.AddUserRole.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506252253.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506252348.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506260042.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506260057.resources
+C:\Users\IliA\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506260118.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\HelloWorld.dll.config
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\HelloWorld.dll
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\HelloWorld.pdb
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\Antlr3.Runtime.dll
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\EntityFramework.dll
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\EntityFramework.SqlServer.dll
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\Microsoft.Owin.dll
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.dll
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Google.dll
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\Newtonsoft.Json.dll
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\Owin.dll
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\System.Web.Helpers.dll
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\System.Web.Mvc.dll
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\System.Web.Optimization.dll
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\System.Web.Razor.dll
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\System.Web.WebPages.Deployment.dll
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\System.Web.WebPages.dll
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\System.Web.WebPages.Razor.dll
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\WebGrease.dll
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\System.Web.Helpers.xml
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\System.Web.Mvc.xml
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\System.Web.Optimization.xml
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\System.Web.Razor.xml
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\System.Web.WebPages.xml
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\System.Web.WebPages.Deployment.xml
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\System.Web.WebPages.Razor.xml
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\Antlr3.Runtime.pdb
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\Newtonsoft.Json.xml
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\EntityFramework.xml
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\EntityFramework.SqlServer.xml
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\Microsoft.Owin.xml
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.xml
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Google.xml
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations.InitialCreate.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._20150620.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506202249.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506202312.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211018.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211129.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211312.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211401.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211532.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211700.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211719.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._1808.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations.add_comments.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506212155.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506212319.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._20150622942.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506221013.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506221050.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506222203.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations.NightMigration.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506222357.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations.newnewnew.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506220035.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506220046.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506230915.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._20150623942.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231006.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231011.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231028.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231034.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231111.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231120.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506221217.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231224.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._20150623.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231431.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._2015rfvgdfbefb.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231558.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231716.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506232227.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506232244.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506232258.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._240620150015.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._240620150018.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240055.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240102.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240130.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240133.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240138.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._20150624.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240926.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240944.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240957.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241114.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241207.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241248.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241303.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241341.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241343.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241404.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241408.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241437.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241624.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241645.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241746.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241807.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506242100.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506250925.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506250938.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506250951.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506250957.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506251002.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506251004.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506251006.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506251014.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506251035.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations.AddUserRole.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506252253.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506252348.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506260042.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506260057.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506260118.resources
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
+D:\ASP-.NET-MVC4-master\ASP-.NET-MVC4-master\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\HelloWorld.dll.config
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\HelloWorld.dll
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\HelloWorld.pdb
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\Antlr3.Runtime.dll
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\EntityFramework.dll
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\EntityFramework.SqlServer.dll
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\Microsoft.AspNet.Identity.Core.dll
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\Microsoft.Owin.dll
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Cookies.dll
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.dll
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Facebook.dll
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Google.dll
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.OAuth.dll
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Twitter.dll
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\Microsoft.Web.Infrastructure.dll
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\Newtonsoft.Json.dll
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\Owin.dll
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\System.Web.Helpers.dll
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\System.Web.Mvc.dll
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\System.Web.Optimization.dll
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\System.Web.Razor.dll
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\System.Web.WebPages.Deployment.dll
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\System.Web.WebPages.dll
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\System.Web.WebPages.Razor.dll
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\WebGrease.dll
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\System.Web.Helpers.xml
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\System.Web.Mvc.xml
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\System.Web.Optimization.xml
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\System.Web.Razor.xml
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\System.Web.WebPages.xml
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\System.Web.WebPages.Deployment.xml
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\System.Web.WebPages.Razor.xml
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\Antlr3.Runtime.pdb
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\Newtonsoft.Json.xml
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\EntityFramework.xml
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\EntityFramework.SqlServer.xml
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\Microsoft.AspNet.Identity.Core.xml
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\Microsoft.Owin.xml
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.xml
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Facebook.xml
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Cookies.xml
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.OAuth.xml
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Google.xml
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Twitter.xml
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations.InitialCreate.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._20150620.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506202249.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506202312.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211018.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211129.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211312.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211401.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211532.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211700.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211719.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._1808.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations.add_comments.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506212155.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506212319.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._20150622942.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506221013.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506221050.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506222203.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations.NightMigration.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506222357.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations.newnewnew.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506220035.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506220046.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506230915.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._20150623942.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231006.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231011.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231028.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231034.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231111.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231120.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506221217.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231224.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._20150623.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231431.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._2015rfvgdfbefb.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231558.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231716.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506232227.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506232244.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506232258.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._240620150015.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._240620150018.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240055.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240102.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240130.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240133.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240138.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._20150624.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240926.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240944.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240957.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241114.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241207.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241248.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241303.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241341.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241343.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241404.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241408.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241437.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241624.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241645.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241746.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241807.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506242100.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506250925.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506250938.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506250951.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506250957.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506251002.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506251004.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506251006.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506251014.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506251035.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations.AddUserRole.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506252253.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506252348.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506260042.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506260057.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506260118.resources
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
+D:\HelloWorld_SERVER\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\HelloWorld.dll.config
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\HelloWorld.dll
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\HelloWorld.pdb
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\Antlr3.Runtime.dll
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\EntityFramework.dll
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\EntityFramework.SqlServer.dll
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\Microsoft.AspNet.Identity.Core.dll
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\Microsoft.Owin.dll
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Cookies.dll
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.dll
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Facebook.dll
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Google.dll
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.OAuth.dll
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Twitter.dll
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\Microsoft.Web.Infrastructure.dll
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\Newtonsoft.Json.dll
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\Owin.dll
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\System.Web.Helpers.dll
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\System.Web.Mvc.dll
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\System.Web.Optimization.dll
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\System.Web.Razor.dll
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\System.Web.WebPages.Deployment.dll
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\System.Web.WebPages.dll
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\System.Web.WebPages.Razor.dll
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\WebGrease.dll
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\System.Web.Helpers.xml
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\System.Web.Mvc.xml
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\System.Web.Optimization.xml
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\System.Web.Razor.xml
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\System.Web.WebPages.xml
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\System.Web.WebPages.Deployment.xml
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\System.Web.WebPages.Razor.xml
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\Antlr3.Runtime.pdb
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\Newtonsoft.Json.xml
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\EntityFramework.xml
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\EntityFramework.SqlServer.xml
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\Microsoft.AspNet.Identity.Core.xml
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\Microsoft.Owin.xml
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.xml
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Facebook.xml
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Cookies.xml
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.OAuth.xml
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Google.xml
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Twitter.xml
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations.InitialCreate.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._20150620.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506202249.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506202312.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211018.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211129.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211312.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211401.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211532.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211700.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211719.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._1808.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations.add_comments.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506212155.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506212319.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._20150622942.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506221013.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506221050.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506222203.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations.NightMigration.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506222357.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations.newnewnew.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506220035.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506220046.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506230915.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._20150623942.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231006.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231011.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231028.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231034.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231111.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231120.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506221217.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231224.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._20150623.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231431.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._2015rfvgdfbefb.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231558.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231716.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506232227.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506232244.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506232258.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._240620150015.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._240620150018.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240055.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240102.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240130.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240133.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240138.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._20150624.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240926.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240944.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240957.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241114.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241207.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241248.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241303.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241341.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241343.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241404.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241408.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241437.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241624.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241645.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241746.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241807.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506242100.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506250925.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506250938.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506250951.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506250957.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506251002.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506251004.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506251006.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506251014.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506251035.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations.AddUserRole.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506252253.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506252348.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506260042.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506260057.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506260118.resources
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\System.Net.Http.Formatting.dll
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\System.Web.Http.dll
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\System.Web.Http.WebHost.dll
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\System.Net.Http.Formatting.xml
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\System.Web.Http.xml
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\bin\System.Web.Http.WebHost.xml
+D:\HelloWorld_SUCCESS_DEPLOY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._170120160139.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\HelloWorld.dll.config
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\HelloWorld.dll
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\HelloWorld.pdb
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\Antlr3.Runtime.dll
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\EntityFramework.dll
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\EntityFramework.SqlServer.dll
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\Microsoft.AspNet.Identity.Core.dll
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\Microsoft.Owin.dll
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Cookies.dll
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.dll
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Facebook.dll
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Google.dll
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.OAuth.dll
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Twitter.dll
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\Microsoft.Web.Infrastructure.dll
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\Newtonsoft.Json.dll
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\Owin.dll
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\System.Net.Http.Formatting.dll
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\System.Web.Helpers.dll
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\System.Web.Http.dll
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\System.Web.Http.WebHost.dll
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\System.Web.Mvc.dll
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\System.Web.Optimization.dll
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\System.Web.Razor.dll
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\System.Web.WebPages.Deployment.dll
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\System.Web.WebPages.dll
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\System.Web.WebPages.Razor.dll
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\WebGrease.dll
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\EntityFramework.xml
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\EntityFramework.SqlServer.xml
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\System.Net.Http.Formatting.xml
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\System.Web.Http.xml
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\System.Web.Http.WebHost.xml
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\System.Web.Helpers.xml
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\System.Web.Mvc.xml
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\System.Web.Optimization.xml
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\System.Web.Razor.xml
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\System.Web.WebPages.xml
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\System.Web.WebPages.Deployment.xml
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\System.Web.WebPages.Razor.xml
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\Antlr3.Runtime.pdb
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\Newtonsoft.Json.xml
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\Microsoft.AspNet.Identity.Core.xml
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\Microsoft.Owin.xml
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.xml
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Facebook.xml
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Cookies.xml
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.OAuth.xml
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Google.xml
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Twitter.xml
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations.InitialCreate.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._20150620.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506202249.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506202312.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211018.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211129.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211312.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211401.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211532.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211700.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211719.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._1808.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations.add_comments.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506212155.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506212319.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._20150622942.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506221013.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506221050.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506222203.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations.NightMigration.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506222357.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations.newnewnew.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506220035.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506220046.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506230915.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._20150623942.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231006.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231011.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231028.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231034.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231111.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231120.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506221217.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231224.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._20150623.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231431.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._2015rfvgdfbefb.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231558.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231716.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506232227.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506232244.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506232258.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._240620150015.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._240620150018.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240055.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240102.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240130.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240133.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240138.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._20150624.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240926.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240944.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240957.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241114.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241207.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241248.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241303.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241341.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241343.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241404.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241408.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241437.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241624.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241645.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241746.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241807.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506242100.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506250925.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506250938.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506250951.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506250957.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506251002.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506251004.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506251006.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506251014.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506251035.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations.AddUserRole.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506252253.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506252348.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506260042.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506260057.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201601182351.resources
+D:\HelloWorld_work_with_it\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._20161901244.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\HelloWorld.dll.config
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\HelloWorld.dll
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\HelloWorld.pdb
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\Antlr3.Runtime.dll
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\EntityFramework.dll
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\EntityFramework.SqlServer.dll
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\Microsoft.Owin.dll
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\Microsoft.Owin.Security.dll
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\Microsoft.Owin.Security.Google.dll
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\Microsoft.Web.Infrastructure.dll
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\Newtonsoft.Json.dll
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\Owin.dll
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\System.Net.Http.Formatting.dll
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\System.Web.Helpers.dll
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\System.Web.Http.dll
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\System.Web.Http.WebHost.dll
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\System.Web.Mvc.dll
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\System.Web.Optimization.dll
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\System.Web.Razor.dll
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\System.Web.WebPages.Deployment.dll
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\System.Web.WebPages.dll
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\System.Web.WebPages.Razor.dll
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\WebGrease.dll
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\EntityFramework.xml
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\EntityFramework.SqlServer.xml
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\System.Net.Http.Formatting.xml
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\System.Web.Http.xml
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\System.Web.Http.WebHost.xml
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\System.Web.Helpers.xml
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\System.Web.Mvc.xml
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\System.Web.Optimization.xml
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\System.Web.Razor.xml
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\System.Web.WebPages.xml
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\System.Web.WebPages.Deployment.xml
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\System.Web.WebPages.Razor.xml
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\Antlr3.Runtime.pdb
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\Newtonsoft.Json.xml
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\Microsoft.Owin.xml
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\Microsoft.Owin.Security.xml
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\Microsoft.Owin.Security.Google.xml
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations.InitialCreate.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._20150620.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506202249.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506202312.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211018.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211129.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211312.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211401.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211532.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211700.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211719.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._1808.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations.add_comments.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506212155.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506212319.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._20150622942.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506221013.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506221050.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506222203.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations.NightMigration.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506222357.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations.newnewnew.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506220035.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506220046.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506230915.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._20150623942.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231006.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231011.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231028.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231034.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231111.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231120.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506221217.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231224.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._20150623.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231431.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._2015rfvgdfbefb.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231558.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231716.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506232227.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506232244.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506232258.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._240620150015.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._240620150018.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240055.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240102.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240130.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240133.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240138.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._20150624.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240926.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240944.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240957.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241114.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241207.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241248.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241303.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241341.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241343.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241404.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241408.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241437.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241624.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241645.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241746.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241807.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506242100.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506250925.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506250938.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506250951.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506250957.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506251002.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506251004.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506251006.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506251014.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506251035.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations.AddUserRole.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506252253.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506252348.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506260042.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201506260057.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._201601182351.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.Migrations._20161901244.resources
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.dll
+G:\Azure-exam-master\Azure-exam-master\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\HelloWorld.dll.config
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\HelloWorld.dll
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\HelloWorld.pdb
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Antlr3.Runtime.dll
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\EntityFramework.dll
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\EntityFramework.SqlServer.dll
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Microsoft.Owin.dll
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.dll
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Newtonsoft.Json.dll
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Owin.dll
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\System.Net.Http.Formatting.dll
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\System.Web.Helpers.dll
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\System.Web.Http.dll
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\System.Web.Http.WebHost.dll
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\System.Web.Mvc.dll
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\System.Web.Optimization.dll
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\System.Web.Razor.dll
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\System.Web.WebPages.dll
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\WebGrease.dll
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\EntityFramework.xml
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\EntityFramework.SqlServer.xml
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\System.Net.Http.Formatting.xml
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\System.Web.Http.xml
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\System.Web.Http.WebHost.xml
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\System.Web.Helpers.xml
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\System.Web.Mvc.xml
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\System.Web.Optimization.xml
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\System.Web.Razor.xml
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\System.Web.WebPages.xml
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Antlr3.Runtime.pdb
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Newtonsoft.Json.xml
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Microsoft.Owin.xml
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.xml
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations.InitialCreate.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._20150620.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506202249.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506202312.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211018.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211129.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211312.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211401.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211532.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211700.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506211719.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._1808.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations.add_comments.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506212155.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506212319.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._20150622942.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506221013.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506221050.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506222203.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations.NightMigration.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506222357.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations.newnewnew.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506220035.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506220046.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506230915.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._20150623942.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231006.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231011.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231028.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231034.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231111.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231120.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506221217.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231224.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._20150623.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231431.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._2015rfvgdfbefb.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231558.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506231716.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506232227.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506232244.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506232258.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._240620150015.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._240620150018.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240055.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240102.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240130.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240133.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240138.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._20150624.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240926.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240944.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506240957.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241114.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241207.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241248.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241303.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241341.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241343.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241404.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241408.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241437.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241624.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241645.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241746.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506241807.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506242100.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506250925.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506250938.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506250951.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506250957.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506251002.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506251004.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506251006.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506251014.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506251035.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations.AddUserRole.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506252253.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506252348.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506260042.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201506260057.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._201601182351.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Migrations._20161901244.resources
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

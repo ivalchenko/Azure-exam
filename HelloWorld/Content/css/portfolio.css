@@ -1,0 +1,20 @@
+#content_container h2 {
+	text-align: center;
+	padding-top: 1%;
+	margin-bottom: 4%;
+}
+
+#content_container h2 a img {
+	width: 80%;
+}
+
+#content_container h2 a img:hover {
+	opacity:0.5;
+	filter:alpha(opacity=50); /* For IE8 and earlier */
+	-webkit-transition: all 0.45s ease;
+	-moz-transition: all 0.45s ease;
+	-ms-transition: all 0.45s ease;
+	-o-transition: all 0.45s ease;
+	transition: all 0.45s ease;
+}
+

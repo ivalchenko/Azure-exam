@@ -1,0 +1,916 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0DFE714D-6130-44DA-A32D-7D96107FEBE0}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HelloWorld</RootNamespace>
+    <AssemblyName>HelloWorld</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <MvcBuildViews>false</MvcBuildViews>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http.Formatting, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Client.5.2.2\lib\net45\System.Net.Http.Formatting.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.ServiceModel.Web" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Http, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Core.5.2.2\lib\net45\System.Web.Http.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.Http.WebHost, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.WebHost.5.2.2\lib\net45\System.Web.Http.WebHost.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Abstractions" />
+    <Reference Include="System.Web.Routing" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http">
+    </Reference>
+    <Reference Include="System.Net.Http.WebRequest">
+    </Reference>
+    <Reference Include="System.Web.Helpers, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.2\lib\net45\System.Web.Helpers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Mvc, Version=__MvcPagesVersion__, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.Mvc.5.2.2\lib\net45\System.Web.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Optimization">
+      <HintPath>..\packages\Microsoft.AspNet.Web.Optimization.1.1.3\lib\net40\System.Web.Optimization.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.Razor.3.2.2\lib\net45\System.Web.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.2\lib\net45\System.Web.WebPages.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Deployment, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.2\lib\net45\System.Web.WebPages.Deployment.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.2\lib\net45\System.Web.WebPages.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="WebGrease">
+      <Private>True</Private>
+      <HintPath>..\packages\WebGrease.1.5.2\lib\WebGrease.dll</HintPath>
+    </Reference>
+    <Reference Include="Antlr3.Runtime">
+      <Private>True</Private>
+      <HintPath>..\packages\Antlr.3.4.1.9004\lib\Antlr3.Runtime.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.6.0.4\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.Identity.Core">
+      <HintPath>..\packages\Microsoft.AspNet.Identity.Core.2.1.0\lib\net45\Microsoft.AspNet.Identity.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.Identity.Owin">
+      <HintPath>..\packages\Microsoft.AspNet.Identity.Owin.2.1.0\lib\net45\Microsoft.AspNet.Identity.Owin.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.Identity.EntityFramework">
+      <HintPath>..\packages\Microsoft.AspNet.Identity.EntityFramework.2.1.0\lib\net45\Microsoft.AspNet.Identity.EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="Owin">
+      <HintPath>..\packages\Owin.1.0\lib\net40\Owin.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin">
+      <HintPath>..\packages\Microsoft.Owin.3.0.0\lib\net45\Microsoft.Owin.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Host.SystemWeb">
+      <HintPath>..\packages\Microsoft.Owin.Host.SystemWeb.3.0.0\lib\net45\Microsoft.Owin.Host.SystemWeb.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security">
+      <HintPath>..\packages\Microsoft.Owin.Security.3.0.0\lib\net45\Microsoft.Owin.Security.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security.Facebook">
+      <HintPath>..\packages\Microsoft.Owin.Security.Facebook.3.0.0\lib\net45\Microsoft.Owin.Security.Facebook.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security.Cookies">
+      <HintPath>..\packages\Microsoft.Owin.Security.Cookies.3.0.0\lib\net45\Microsoft.Owin.Security.Cookies.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security.OAuth">
+      <HintPath>..\packages\Microsoft.Owin.Security.OAuth.3.0.0\lib\net45\Microsoft.Owin.Security.OAuth.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security.Google">
+      <HintPath>..\packages\Microsoft.Owin.Security.Google.3.0.0\lib\net45\Microsoft.Owin.Security.Google.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security.Twitter">
+      <HintPath>..\packages\Microsoft.Owin.Security.Twitter.3.0.0\lib\net45\Microsoft.Owin.Security.Twitter.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security.MicrosoftAccount">
+      <HintPath>..\packages\Microsoft.Owin.Security.MicrosoftAccount.3.0.0\lib\net45\Microsoft.Owin.Security.MicrosoftAccount.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App_Start\BundleConfig.cs" />
+    <Compile Include="App_Start\FilterConfig.cs" />
+    <Compile Include="App_Start\IdentityConfig.cs" />
+    <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="App_Start\Startup.Auth.cs" />
+    <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\CommentsController.cs" />
+    <Compile Include="Controllers\FullContactController.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\ImagesController.cs" />
+    <Compile Include="Controllers\ManageController.cs" />
+    <Compile Include="Controllers\PostsController.cs" />
+    <Compile Include="Controllers\RoleController.cs" />
+    <Compile Include="Controllers\TagsController.cs" />
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Infrastructure\FullContactService.cs" />
+    <Compile Include="Infrastructure\PostsRESTService.cs" />
+    <Compile Include="Migrations\201506191703152_InitialCreate.cs" />
+    <Compile Include="Migrations\201506191703152_InitialCreate.Designer.cs">
+      <DependentUpon>201506191703152_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506192139337_2015-06-20.cs" />
+    <Compile Include="Migrations\201506192139337_2015-06-20.Designer.cs">
+      <DependentUpon>201506192139337_2015-06-20.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506201949578_2015-06-20-22-49.cs" />
+    <Compile Include="Migrations\201506201949578_2015-06-20-22-49.Designer.cs">
+      <DependentUpon>201506201949578_2015-06-20-22-49.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506202012164_2015-06-20-23-12.cs" />
+    <Compile Include="Migrations\201506202012164_2015-06-20-23-12.Designer.cs">
+      <DependentUpon>201506202012164_2015-06-20-23-12.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506210718531_2015-06-21-10-18.cs" />
+    <Compile Include="Migrations\201506210718531_2015-06-21-10-18.Designer.cs">
+      <DependentUpon>201506210718531_2015-06-21-10-18.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506210830145_2015-06-21-11-29.cs" />
+    <Compile Include="Migrations\201506210830145_2015-06-21-11-29.Designer.cs">
+      <DependentUpon>201506210830145_2015-06-21-11-29.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506211013004_2015-06-21-13-12.cs" />
+    <Compile Include="Migrations\201506211013004_2015-06-21-13-12.Designer.cs">
+      <DependentUpon>201506211013004_2015-06-21-13-12.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506211101475_2015-06-21-14-01.cs" />
+    <Compile Include="Migrations\201506211101475_2015-06-21-14-01.Designer.cs">
+      <DependentUpon>201506211101475_2015-06-21-14-01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506211232235_2015-06-21-15-32.cs" />
+    <Compile Include="Migrations\201506211232235_2015-06-21-15-32.Designer.cs">
+      <DependentUpon>201506211232235_2015-06-21-15-32.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506211400177_2015-06-21-17-00.cs" />
+    <Compile Include="Migrations\201506211400177_2015-06-21-17-00.Designer.cs">
+      <DependentUpon>201506211400177_2015-06-21-17-00.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506211420152_2015-06-21-17-19.cs" />
+    <Compile Include="Migrations\201506211420152_2015-06-21-17-19.Designer.cs">
+      <DependentUpon>201506211420152_2015-06-21-17-19.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506211508429_18-08.cs" />
+    <Compile Include="Migrations\201506211508429_18-08.Designer.cs">
+      <DependentUpon>201506211508429_18-08.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506211550240_add_comments.cs" />
+    <Compile Include="Migrations\201506211550240_add_comments.Designer.cs">
+      <DependentUpon>201506211550240_add_comments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506211856182_2015-06-21-21-55.cs" />
+    <Compile Include="Migrations\201506211856182_2015-06-21-21-55.Designer.cs">
+      <DependentUpon>201506211856182_2015-06-21-21-55.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506212020014_2015-06-21-23-19.cs" />
+    <Compile Include="Migrations\201506212020014_2015-06-21-23-19.Designer.cs">
+      <DependentUpon>201506212020014_2015-06-21-23-19.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506220642460_2015-06-22-9-42.cs" />
+    <Compile Include="Migrations\201506220642460_2015-06-22-9-42.Designer.cs">
+      <DependentUpon>201506220642460_2015-06-22-9-42.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506220713575_2015-06-22-10-13.cs" />
+    <Compile Include="Migrations\201506220713575_2015-06-22-10-13.Designer.cs">
+      <DependentUpon>201506220713575_2015-06-22-10-13.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506220750191_2015-06-22-10-50.cs" />
+    <Compile Include="Migrations\201506220750191_2015-06-22-10-50.Designer.cs">
+      <DependentUpon>201506220750191_2015-06-22-10-50.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506221904245_2015-06-22-22-03.cs" />
+    <Compile Include="Migrations\201506221904245_2015-06-22-22-03.Designer.cs">
+      <DependentUpon>201506221904245_2015-06-22-22-03.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506221957419_NightMigration.cs" />
+    <Compile Include="Migrations\201506221957419_NightMigration.Designer.cs">
+      <DependentUpon>201506221957419_NightMigration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506222057235_2015-06-22-23-57.cs" />
+    <Compile Include="Migrations\201506222057235_2015-06-22-23-57.Designer.cs">
+      <DependentUpon>201506222057235_2015-06-22-23-57.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506222102203_newnewnew.cs" />
+    <Compile Include="Migrations\201506222102203_newnewnew.Designer.cs">
+      <DependentUpon>201506222102203_newnewnew.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506222135444_2015-06-22-00-35.cs" />
+    <Compile Include="Migrations\201506222135444_2015-06-22-00-35.Designer.cs">
+      <DependentUpon>201506222135444_2015-06-22-00-35.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506222146421_2015-06-22-00-46.cs" />
+    <Compile Include="Migrations\201506222146421_2015-06-22-00-46.Designer.cs">
+      <DependentUpon>201506222146421_2015-06-22-00-46.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506230615199_2015-06-23-09-15.cs" />
+    <Compile Include="Migrations\201506230615199_2015-06-23-09-15.Designer.cs">
+      <DependentUpon>201506230615199_2015-06-23-09-15.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506230642152_2015-06-23-9-42.cs" />
+    <Compile Include="Migrations\201506230642152_2015-06-23-9-42.Designer.cs">
+      <DependentUpon>201506230642152_2015-06-23-9-42.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506230707079_2015-06-23-10-06.cs" />
+    <Compile Include="Migrations\201506230707079_2015-06-23-10-06.Designer.cs">
+      <DependentUpon>201506230707079_2015-06-23-10-06.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506230711478_2015-06-23-10-11.cs" />
+    <Compile Include="Migrations\201506230711478_2015-06-23-10-11.Designer.cs">
+      <DependentUpon>201506230711478_2015-06-23-10-11.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506230728415_2015-06-23-10-28.cs" />
+    <Compile Include="Migrations\201506230728415_2015-06-23-10-28.Designer.cs">
+      <DependentUpon>201506230728415_2015-06-23-10-28.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506230734429_2015-06-23-10-34.cs" />
+    <Compile Include="Migrations\201506230734429_2015-06-23-10-34.Designer.cs">
+      <DependentUpon>201506230734429_2015-06-23-10-34.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506230811272_2015-06-23-11-11.cs" />
+    <Compile Include="Migrations\201506230811272_2015-06-23-11-11.Designer.cs">
+      <DependentUpon>201506230811272_2015-06-23-11-11.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506230820472_2015-06-23-11-20.cs" />
+    <Compile Include="Migrations\201506230820472_2015-06-23-11-20.Designer.cs">
+      <DependentUpon>201506230820472_2015-06-23-11-20.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506230917302_2015-06-22-12-17.cs" />
+    <Compile Include="Migrations\201506230917302_2015-06-22-12-17.Designer.cs">
+      <DependentUpon>201506230917302_2015-06-22-12-17.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506230924449_2015-06-23-12-24.cs" />
+    <Compile Include="Migrations\201506230924449_2015-06-23-12-24.Designer.cs">
+      <DependentUpon>201506230924449_2015-06-23-12-24.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506231118243_2015-06-23.cs" />
+    <Compile Include="Migrations\201506231118243_2015-06-23.Designer.cs">
+      <DependentUpon>201506231118243_2015-06-23.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506231131282_2015-06-23-14-31.cs" />
+    <Compile Include="Migrations\201506231131282_2015-06-23-14-31.Designer.cs">
+      <DependentUpon>201506231131282_2015-06-23-14-31.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506231235544_2015rfvgdfbefb.cs" />
+    <Compile Include="Migrations\201506231235544_2015rfvgdfbefb.Designer.cs">
+      <DependentUpon>201506231235544_2015rfvgdfbefb.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506231258599_2015-06-23-15-58.cs" />
+    <Compile Include="Migrations\201506231258599_2015-06-23-15-58.Designer.cs">
+      <DependentUpon>201506231258599_2015-06-23-15-58.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506231417280_2015-06-23-17-16.cs" />
+    <Compile Include="Migrations\201506231417280_2015-06-23-17-16.Designer.cs">
+      <DependentUpon>201506231417280_2015-06-23-17-16.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506231927154_2015-06-23-22-27.cs" />
+    <Compile Include="Migrations\201506231927154_2015-06-23-22-27.Designer.cs">
+      <DependentUpon>201506231927154_2015-06-23-22-27.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506231944281_2015-06-23-22-44.cs" />
+    <Compile Include="Migrations\201506231944281_2015-06-23-22-44.Designer.cs">
+      <DependentUpon>201506231944281_2015-06-23-22-44.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506231958359_2015-06-23-22-58.cs" />
+    <Compile Include="Migrations\201506231958359_2015-06-23-22-58.Designer.cs">
+      <DependentUpon>201506231958359_2015-06-23-22-58.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506232116229_24-06-2015-00-15.cs" />
+    <Compile Include="Migrations\201506232116229_24-06-2015-00-15.Designer.cs">
+      <DependentUpon>201506232116229_24-06-2015-00-15.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506232118115_24-06-2015-00-18.cs" />
+    <Compile Include="Migrations\201506232118115_24-06-2015-00-18.Designer.cs">
+      <DependentUpon>201506232118115_24-06-2015-00-18.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506232155200_2015-06-24-00-55.cs" />
+    <Compile Include="Migrations\201506232155200_2015-06-24-00-55.Designer.cs">
+      <DependentUpon>201506232155200_2015-06-24-00-55.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506232203058_2015-06-24-01-02.cs" />
+    <Compile Include="Migrations\201506232203058_2015-06-24-01-02.Designer.cs">
+      <DependentUpon>201506232203058_2015-06-24-01-02.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506232231053_2015-06-24-01-30.cs" />
+    <Compile Include="Migrations\201506232231053_2015-06-24-01-30.Designer.cs">
+      <DependentUpon>201506232231053_2015-06-24-01-30.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506232233305_2015-06-24-01-33.cs" />
+    <Compile Include="Migrations\201506232233305_2015-06-24-01-33.Designer.cs">
+      <DependentUpon>201506232233305_2015-06-24-01-33.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506232239042_2015-06-24-01-38.cs" />
+    <Compile Include="Migrations\201506232239042_2015-06-24-01-38.Designer.cs">
+      <DependentUpon>201506232239042_2015-06-24-01-38.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506232303438_2015-06-24.cs" />
+    <Compile Include="Migrations\201506232303438_2015-06-24.Designer.cs">
+      <DependentUpon>201506232303438_2015-06-24.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506240626081_2015-06-24-09-26.cs" />
+    <Compile Include="Migrations\201506240626081_2015-06-24-09-26.Designer.cs">
+      <DependentUpon>201506240626081_2015-06-24-09-26.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506240644272_2015-06-24-09-44.cs" />
+    <Compile Include="Migrations\201506240644272_2015-06-24-09-44.Designer.cs">
+      <DependentUpon>201506240644272_2015-06-24-09-44.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506240657194_2015-06-24-09-57.cs" />
+    <Compile Include="Migrations\201506240657194_2015-06-24-09-57.Designer.cs">
+      <DependentUpon>201506240657194_2015-06-24-09-57.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506240814548_2015-06-24-11-14.cs" />
+    <Compile Include="Migrations\201506240814548_2015-06-24-11-14.Designer.cs">
+      <DependentUpon>201506240814548_2015-06-24-11-14.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506240907533_2015-06-24-12-07.cs" />
+    <Compile Include="Migrations\201506240907533_2015-06-24-12-07.Designer.cs">
+      <DependentUpon>201506240907533_2015-06-24-12-07.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506240949156_2015-06-24-12-48.cs" />
+    <Compile Include="Migrations\201506240949156_2015-06-24-12-48.Designer.cs">
+      <DependentUpon>201506240949156_2015-06-24-12-48.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506241003381_2015-06-24-13-03.cs" />
+    <Compile Include="Migrations\201506241003381_2015-06-24-13-03.Designer.cs">
+      <DependentUpon>201506241003381_2015-06-24-13-03.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506241041264_2015-06-24-13-41.cs" />
+    <Compile Include="Migrations\201506241041264_2015-06-24-13-41.Designer.cs">
+      <DependentUpon>201506241041264_2015-06-24-13-41.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506241043499_2015-06-24-13-43.cs" />
+    <Compile Include="Migrations\201506241043499_2015-06-24-13-43.Designer.cs">
+      <DependentUpon>201506241043499_2015-06-24-13-43.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506241104235_2015-06-24-14-04.cs" />
+    <Compile Include="Migrations\201506241104235_2015-06-24-14-04.Designer.cs">
+      <DependentUpon>201506241104235_2015-06-24-14-04.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506241108486_2015-06-24-14-08.cs" />
+    <Compile Include="Migrations\201506241108486_2015-06-24-14-08.Designer.cs">
+      <DependentUpon>201506241108486_2015-06-24-14-08.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506241137381_2015-06-24-14-37.cs" />
+    <Compile Include="Migrations\201506241137381_2015-06-24-14-37.Designer.cs">
+      <DependentUpon>201506241137381_2015-06-24-14-37.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506241325074_2015-06-24-16-24.cs" />
+    <Compile Include="Migrations\201506241325074_2015-06-24-16-24.Designer.cs">
+      <DependentUpon>201506241325074_2015-06-24-16-24.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506241345141_2015-06-24-16-45.cs" />
+    <Compile Include="Migrations\201506241345141_2015-06-24-16-45.Designer.cs">
+      <DependentUpon>201506241345141_2015-06-24-16-45.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506241446232_2015-06-24-17-46.cs" />
+    <Compile Include="Migrations\201506241446232_2015-06-24-17-46.Designer.cs">
+      <DependentUpon>201506241446232_2015-06-24-17-46.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506241508008_2015-06-24-18-07.cs" />
+    <Compile Include="Migrations\201506241508008_2015-06-24-18-07.Designer.cs">
+      <DependentUpon>201506241508008_2015-06-24-18-07.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506241800287_2015-06-24-21-00.cs" />
+    <Compile Include="Migrations\201506241800287_2015-06-24-21-00.Designer.cs">
+      <DependentUpon>201506241800287_2015-06-24-21-00.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506250626252_2015-06-25-09-25.cs" />
+    <Compile Include="Migrations\201506250626252_2015-06-25-09-25.Designer.cs">
+      <DependentUpon>201506250626252_2015-06-25-09-25.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506250638445_2015-06-25-09-38.cs" />
+    <Compile Include="Migrations\201506250638445_2015-06-25-09-38.Designer.cs">
+      <DependentUpon>201506250638445_2015-06-25-09-38.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506250652010_2015-06-25-09-51.cs" />
+    <Compile Include="Migrations\201506250652010_2015-06-25-09-51.Designer.cs">
+      <DependentUpon>201506250652010_2015-06-25-09-51.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506250657237_2015-06-25-09-57.cs" />
+    <Compile Include="Migrations\201506250657237_2015-06-25-09-57.Designer.cs">
+      <DependentUpon>201506250657237_2015-06-25-09-57.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506250702286_2015-06-25-10-02.cs" />
+    <Compile Include="Migrations\201506250702286_2015-06-25-10-02.Designer.cs">
+      <DependentUpon>201506250702286_2015-06-25-10-02.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506250704420_2015-06-25-10-04.cs" />
+    <Compile Include="Migrations\201506250704420_2015-06-25-10-04.Designer.cs">
+      <DependentUpon>201506250704420_2015-06-25-10-04.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506250706236_2015-06-25-10-06.cs" />
+    <Compile Include="Migrations\201506250706236_2015-06-25-10-06.Designer.cs">
+      <DependentUpon>201506250706236_2015-06-25-10-06.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506250714279_2015-06-25-10-14.cs" />
+    <Compile Include="Migrations\201506250714279_2015-06-25-10-14.Designer.cs">
+      <DependentUpon>201506250714279_2015-06-25-10-14.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506250736039_2015-06-25-10-35.cs" />
+    <Compile Include="Migrations\201506250736039_2015-06-25-10-35.Designer.cs">
+      <DependentUpon>201506250736039_2015-06-25-10-35.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506251858068_AddUserRole.cs" />
+    <Compile Include="Migrations\201506251858068_AddUserRole.Designer.cs">
+      <DependentUpon>201506251858068_AddUserRole.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506251953506_2015-06-25-22-53.cs" />
+    <Compile Include="Migrations\201506251953506_2015-06-25-22-53.Designer.cs">
+      <DependentUpon>201506251953506_2015-06-25-22-53.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506252048383_2015-06-25-23-48.cs" />
+    <Compile Include="Migrations\201506252048383_2015-06-25-23-48.Designer.cs">
+      <DependentUpon>201506252048383_2015-06-25-23-48.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506252142136_2015-06-26-00-42.cs" />
+    <Compile Include="Migrations\201506252142136_2015-06-26-00-42.Designer.cs">
+      <DependentUpon>201506252142136_2015-06-26-00-42.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201506252158250_2015-06-26-00-57.cs" />
+    <Compile Include="Migrations\201506252158250_2015-06-26-00-57.Designer.cs">
+      <DependentUpon>201506252158250_2015-06-26-00-57.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201601182052158_2016-01-18-23-51.cs" />
+    <Compile Include="Migrations\201601182052158_2016-01-18-23-51.Designer.cs">
+      <DependentUpon>201601182052158_2016-01-18-23-51.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201601182344418_2016-19-01-2-44.cs" />
+    <Compile Include="Migrations\201601182344418_2016-19-01-2-44.Designer.cs">
+      <DependentUpon>201601182344418_2016-19-01-2-44.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Models\AccountViewModels.cs" />
+    <Compile Include="Models\Comment.cs" />
+    <Compile Include="Models\IdentityModels.cs" />
+    <Compile Include="Models\Image.cs" />
+    <Compile Include="Models\ManageViewModels.cs" />
+    <Compile Include="Models\Post.cs" />
+    <Compile Include="Models\Tag.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Service References\RSSServiceReference\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Service\IService.cs" />
+    <Compile Include="Service\Service.svc.cs">
+      <DependentUpon>Service.svc</DependentUpon>
+    </Compile>
+    <Compile Include="Startup.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="favicon.ico" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Global.asax" />
+    <Content Include="Scripts\bootstrap.js" />
+    <Content Include="Scripts\bootstrap.min.js" />
+    <None Include="Scripts\jquery-1.10.2.intellisense.js" />
+    <Content Include="Scripts\jquery-1.10.2.js" />
+    <Content Include="Scripts\jquery-1.10.2.min.js" />
+    <None Include="Scripts\jquery.validate-vsdoc.js" />
+    <Content Include="Scripts\jquery.unobtrusive-ajax.js" />
+    <Content Include="Scripts\jquery.unobtrusive-ajax.min.js" />
+    <Content Include="Scripts\jquery.validate.js" />
+    <Content Include="Scripts\jquery.validate.min.js" />
+    <Content Include="Scripts\jquery.validate.unobtrusive.js" />
+    <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
+    <Content Include="Scripts\modernizr-2.6.2.js" />
+    <Content Include="Scripts\respond.js" />
+    <Content Include="Scripts\respond.min.js" />
+    <Content Include="Scripts\_references.js" />
+    <None Include="Service References\RSSServiceReference\configuration91.svcinfo" />
+    <None Include="Service References\RSSServiceReference\configuration.svcinfo" />
+    <None Include="Service References\RSSServiceReference\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <Content Include="Service\Service.svc" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Views\Web.config" />
+    <Content Include="Views\_ViewStart.cshtml" />
+    <Content Include="Views\Shared\Error.cshtml" />
+    <Content Include="Views\Shared\_DefaultLayout.cshtml" />
+    <Content Include="Views\Home\About.cshtml" />
+    <Content Include="Views\Home\Contact.cshtml" />
+    <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Scripts\jquery-1.10.2.min.map" />
+    <Content Include="Views\Account\Login.cshtml" />
+    <Content Include="Views\Account\Register.cshtml" />
+    <Content Include="Views\Manage\ChangePassword.cshtml" />
+    <Content Include="Views\Manage\Index.cshtml" />
+    <Content Include="Views\Shared\Lockout.cshtml" />
+    <Content Include="Views\Shared\_LoginPartial.cshtml" />
+    <Content Include="Views\Posts\Create.cshtml" />
+    <Content Include="Views\Posts\Delete.cshtml" />
+    <Content Include="Views\Posts\Details.cshtml" />
+    <Content Include="Views\Posts\Edit.cshtml" />
+    <Content Include="Views\Posts\Index.cshtml" />
+    <Content Include="Views\Images\Create.cshtml" />
+    <Content Include="Views\Images\Delete.cshtml" />
+    <Content Include="Views\Images\Art.cshtml" />
+    <Content Include="Views\Tags\Create.cshtml" />
+    <Content Include="Views\Tags\Delete.cshtml" />
+    <Content Include="Views\Tags\Details.cshtml" />
+    <Content Include="Views\Tags\Edit.cshtml" />
+    <Content Include="Views\Tags\Index.cshtml" />
+    <Content Include="Views\Role\Index.cshtml" />
+    <Content Include="Views\Role\Create.cshtml" />
+    <Content Include="Views\Shared\_AdminLayout.cshtml" />
+    <None Include="Service References\RSSServiceReference\RssToHTML.wsdl" />
+    <Content Include="Views\FullContact\Index.cshtml" />
+    <Content Include="Views\FullContact\Info.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+    <Folder Include="Content\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="packages.config" />
+    <None Include="Project_Readme.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201506191703152_InitialCreate.resx">
+      <DependentUpon>201506191703152_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506192139337_2015-06-20.resx">
+      <DependentUpon>201506192139337_2015-06-20.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506201949578_2015-06-20-22-49.resx">
+      <DependentUpon>201506201949578_2015-06-20-22-49.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506202012164_2015-06-20-23-12.resx">
+      <DependentUpon>201506202012164_2015-06-20-23-12.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506210718531_2015-06-21-10-18.resx">
+      <DependentUpon>201506210718531_2015-06-21-10-18.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506210830145_2015-06-21-11-29.resx">
+      <DependentUpon>201506210830145_2015-06-21-11-29.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506211013004_2015-06-21-13-12.resx">
+      <DependentUpon>201506211013004_2015-06-21-13-12.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506211101475_2015-06-21-14-01.resx">
+      <DependentUpon>201506211101475_2015-06-21-14-01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506211232235_2015-06-21-15-32.resx">
+      <DependentUpon>201506211232235_2015-06-21-15-32.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506211400177_2015-06-21-17-00.resx">
+      <DependentUpon>201506211400177_2015-06-21-17-00.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506211420152_2015-06-21-17-19.resx">
+      <DependentUpon>201506211420152_2015-06-21-17-19.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506211508429_18-08.resx">
+      <DependentUpon>201506211508429_18-08.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506211550240_add_comments.resx">
+      <DependentUpon>201506211550240_add_comments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506211856182_2015-06-21-21-55.resx">
+      <DependentUpon>201506211856182_2015-06-21-21-55.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506212020014_2015-06-21-23-19.resx">
+      <DependentUpon>201506212020014_2015-06-21-23-19.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506220642460_2015-06-22-9-42.resx">
+      <DependentUpon>201506220642460_2015-06-22-9-42.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506220713575_2015-06-22-10-13.resx">
+      <DependentUpon>201506220713575_2015-06-22-10-13.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506220750191_2015-06-22-10-50.resx">
+      <DependentUpon>201506220750191_2015-06-22-10-50.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506221904245_2015-06-22-22-03.resx">
+      <DependentUpon>201506221904245_2015-06-22-22-03.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506221957419_NightMigration.resx">
+      <DependentUpon>201506221957419_NightMigration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506222057235_2015-06-22-23-57.resx">
+      <DependentUpon>201506222057235_2015-06-22-23-57.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506222102203_newnewnew.resx">
+      <DependentUpon>201506222102203_newnewnew.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506222135444_2015-06-22-00-35.resx">
+      <DependentUpon>201506222135444_2015-06-22-00-35.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506222146421_2015-06-22-00-46.resx">
+      <DependentUpon>201506222146421_2015-06-22-00-46.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506230615199_2015-06-23-09-15.resx">
+      <DependentUpon>201506230615199_2015-06-23-09-15.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506230642152_2015-06-23-9-42.resx">
+      <DependentUpon>201506230642152_2015-06-23-9-42.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506230707079_2015-06-23-10-06.resx">
+      <DependentUpon>201506230707079_2015-06-23-10-06.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506230711478_2015-06-23-10-11.resx">
+      <DependentUpon>201506230711478_2015-06-23-10-11.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506230728415_2015-06-23-10-28.resx">
+      <DependentUpon>201506230728415_2015-06-23-10-28.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506230734429_2015-06-23-10-34.resx">
+      <DependentUpon>201506230734429_2015-06-23-10-34.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506230811272_2015-06-23-11-11.resx">
+      <DependentUpon>201506230811272_2015-06-23-11-11.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506230820472_2015-06-23-11-20.resx">
+      <DependentUpon>201506230820472_2015-06-23-11-20.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506230917302_2015-06-22-12-17.resx">
+      <DependentUpon>201506230917302_2015-06-22-12-17.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506230924449_2015-06-23-12-24.resx">
+      <DependentUpon>201506230924449_2015-06-23-12-24.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506231118243_2015-06-23.resx">
+      <DependentUpon>201506231118243_2015-06-23.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506231131282_2015-06-23-14-31.resx">
+      <DependentUpon>201506231131282_2015-06-23-14-31.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506231235544_2015rfvgdfbefb.resx">
+      <DependentUpon>201506231235544_2015rfvgdfbefb.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506231258599_2015-06-23-15-58.resx">
+      <DependentUpon>201506231258599_2015-06-23-15-58.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506231417280_2015-06-23-17-16.resx">
+      <DependentUpon>201506231417280_2015-06-23-17-16.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506231927154_2015-06-23-22-27.resx">
+      <DependentUpon>201506231927154_2015-06-23-22-27.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506231944281_2015-06-23-22-44.resx">
+      <DependentUpon>201506231944281_2015-06-23-22-44.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506231958359_2015-06-23-22-58.resx">
+      <DependentUpon>201506231958359_2015-06-23-22-58.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506232116229_24-06-2015-00-15.resx">
+      <DependentUpon>201506232116229_24-06-2015-00-15.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506232118115_24-06-2015-00-18.resx">
+      <DependentUpon>201506232118115_24-06-2015-00-18.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506232155200_2015-06-24-00-55.resx">
+      <DependentUpon>201506232155200_2015-06-24-00-55.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506232203058_2015-06-24-01-02.resx">
+      <DependentUpon>201506232203058_2015-06-24-01-02.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506232231053_2015-06-24-01-30.resx">
+      <DependentUpon>201506232231053_2015-06-24-01-30.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506232233305_2015-06-24-01-33.resx">
+      <DependentUpon>201506232233305_2015-06-24-01-33.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506232239042_2015-06-24-01-38.resx">
+      <DependentUpon>201506232239042_2015-06-24-01-38.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506232303438_2015-06-24.resx">
+      <DependentUpon>201506232303438_2015-06-24.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506240626081_2015-06-24-09-26.resx">
+      <DependentUpon>201506240626081_2015-06-24-09-26.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506240644272_2015-06-24-09-44.resx">
+      <DependentUpon>201506240644272_2015-06-24-09-44.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506240657194_2015-06-24-09-57.resx">
+      <DependentUpon>201506240657194_2015-06-24-09-57.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506240814548_2015-06-24-11-14.resx">
+      <DependentUpon>201506240814548_2015-06-24-11-14.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506240907533_2015-06-24-12-07.resx">
+      <DependentUpon>201506240907533_2015-06-24-12-07.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506240949156_2015-06-24-12-48.resx">
+      <DependentUpon>201506240949156_2015-06-24-12-48.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506241003381_2015-06-24-13-03.resx">
+      <DependentUpon>201506241003381_2015-06-24-13-03.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506241041264_2015-06-24-13-41.resx">
+      <DependentUpon>201506241041264_2015-06-24-13-41.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506241043499_2015-06-24-13-43.resx">
+      <DependentUpon>201506241043499_2015-06-24-13-43.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506241104235_2015-06-24-14-04.resx">
+      <DependentUpon>201506241104235_2015-06-24-14-04.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506241108486_2015-06-24-14-08.resx">
+      <DependentUpon>201506241108486_2015-06-24-14-08.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506241137381_2015-06-24-14-37.resx">
+      <DependentUpon>201506241137381_2015-06-24-14-37.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506241325074_2015-06-24-16-24.resx">
+      <DependentUpon>201506241325074_2015-06-24-16-24.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506241345141_2015-06-24-16-45.resx">
+      <DependentUpon>201506241345141_2015-06-24-16-45.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506241446232_2015-06-24-17-46.resx">
+      <DependentUpon>201506241446232_2015-06-24-17-46.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506241508008_2015-06-24-18-07.resx">
+      <DependentUpon>201506241508008_2015-06-24-18-07.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506241800287_2015-06-24-21-00.resx">
+      <DependentUpon>201506241800287_2015-06-24-21-00.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506250626252_2015-06-25-09-25.resx">
+      <DependentUpon>201506250626252_2015-06-25-09-25.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506250638445_2015-06-25-09-38.resx">
+      <DependentUpon>201506250638445_2015-06-25-09-38.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506250652010_2015-06-25-09-51.resx">
+      <DependentUpon>201506250652010_2015-06-25-09-51.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506250657237_2015-06-25-09-57.resx">
+      <DependentUpon>201506250657237_2015-06-25-09-57.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506250702286_2015-06-25-10-02.resx">
+      <DependentUpon>201506250702286_2015-06-25-10-02.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506250704420_2015-06-25-10-04.resx">
+      <DependentUpon>201506250704420_2015-06-25-10-04.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506250706236_2015-06-25-10-06.resx">
+      <DependentUpon>201506250706236_2015-06-25-10-06.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506250714279_2015-06-25-10-14.resx">
+      <DependentUpon>201506250714279_2015-06-25-10-14.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506250736039_2015-06-25-10-35.resx">
+      <DependentUpon>201506250736039_2015-06-25-10-35.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506251858068_AddUserRole.resx">
+      <DependentUpon>201506251858068_AddUserRole.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506251953506_2015-06-25-22-53.resx">
+      <DependentUpon>201506251953506_2015-06-25-22-53.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506252048383_2015-06-25-23-48.resx">
+      <DependentUpon>201506252048383_2015-06-25-23-48.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506252142136_2015-06-26-00-42.resx">
+      <DependentUpon>201506252142136_2015-06-26-00-42.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506252158250_2015-06-26-00-57.resx">
+      <DependentUpon>201506252158250_2015-06-26-00-57.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201601182052158_2016-01-18-23-51.resx">
+      <DependentUpon>201601182052158_2016-01-18-23-51.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201601182344418_2016-19-01-2-44.resx">
+      <DependentUpon>201601182344418_2016-19-01-2-44.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\RSSServiceReference\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <Target Name="MvcBuildViews" AfterTargets="AfterBuild" Condition="'$(MvcBuildViews)'=='true'">
+    <AspNetCompiler VirtualPath="temp" PhysicalPath="$(WebProjectOutputDir)" />
+  </Target>
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>8017</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:8017/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target> -->
+</Project>

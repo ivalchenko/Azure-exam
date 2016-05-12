@@ -1,0 +1,81 @@
+.register-wrapper {
+	padding: 0 2% 0 2%;
+}
+
+h4 {
+	margin-bottom: 1%;
+	font-size: 1.1em;
+	margin-top: 0.7em;
+}
+
+hr {
+	margin-bottom: 2%;
+}
+
+input {
+	margin-top: 0.3em;
+	background: #e0dfdf;
+	color: #777;
+	padding: 4px 10px;
+	border: none;
+	border-left: 1em solid #55acee;
+}
+
+input:focus {
+	border-left: 1em solid #0084b4;
+	background-color: #eee;
+}
+
+.form-group {
+	margin-bottom: 1%;
+}
+
+input[type="submit"] {
+	background: #0084b4;
+	color: #fff;
+	display: block;
+	padding: 4px 10px;
+	margin-top: 1.5%;
+	border: none;
+}
+
+input[type="submit"]:hover {
+	background: #55acee;
+}
+
+.register-new-user-link {
+	margin-top: 1em;
+	margin-left: -2em;
+}
+
+/* Personal cabinet */
+
+.personal_cabinet h2 {
+	margin-top: -1em;
+}
+
+.personal_cabinet h4 {
+	width: 98%;
+	margin: 0 auto;
+	border-bottom: 0.15em solid #000000;
+	padding-bottom: 0.5em;
+	margin-bottom: 1em;
+}
+
+.personal_cabinet p {
+	margin-left: -1.3em;
+}
+
+.personal_cabinet p:last-of-type {
+	margin-top: -1em;
+}
+
+.access-helper p {
+	margin: 0;
+	padding: 0;
+}
+
+.access-helper p span {
+	font-weight: bold;
+}
+

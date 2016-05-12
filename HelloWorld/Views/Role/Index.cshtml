@@ -1,0 +1,36 @@
+﻿@model IEnumerable<Microsoft.AspNet.Identity.EntityFramework.IdentityRole>
+@{
+    ViewBag.Title = "Роли";
+}
+
+<link rel="stylesheet" href="../../../Content/css/role.css">
+
+<h2>Доступные роли в приложении</h2>
+
+<style type="text/css">
+    #tbrole, .c {
+        border: double;
+    }
+</style>
+
+<table id="tbrole">
+    <tr>
+        <td class="c">
+            <strong>Имя</strong>
+        </td>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td class="c">
+                @item.Name
+            </td>
+        </tr>
+    }
+
+    <tr>
+        <td>
+                @Html.ActionLink("Добавить роль", "Create", "Role")
+        </td>
+    </tr>
+</table>

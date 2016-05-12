@@ -1,0 +1,17 @@
+﻿@model HelloWorld.Models.Image
+@{
+    ViewBag.Title = "Добавить изображение";
+}
+
+<link rel="stylesheet" href="../../../Content/css/add_image.css">
+
+<h3>Добавить изображение</h3>
+
+<form method="post" action="@Url.Action("Create", "Images")" enctype="multipart/form-data">
+    <input type="file" name="file" accept="image/x-png, image/gif, image/jpeg">
+    <input type="submit" value="Загрузить">
+</form>
+
+<div class="back-to-list-button">
+    @Html.ActionLink("Назад", "Art")
+</div>

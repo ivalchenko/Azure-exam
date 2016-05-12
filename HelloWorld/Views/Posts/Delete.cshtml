@@ -1,0 +1,49 @@
+﻿@model HelloWorld.Models.Post
+@{
+    ViewBag.Title = "Удалить";
+}
+
+<link rel="stylesheet" href="../../../Content/css/delete_post.css">
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+
+<div class="create-post-form">
+    <h3>Вы уверены, что хотите удалить эту запись?</h3>
+    <div class="form-group">
+
+        <article class="post">
+            <h4>@Html.DisplayFor(model => model.Title)</h4>
+            <p>@Html.DisplayFor(model => model.Description)</p>
+            
+            @using (Ajax.BeginForm("AJAXLike", "Posts", new AjaxOptions()
+            {
+                UpdateTargetId = "like-button",
+                InsertionMode = InsertionMode.Replace
+                //OnBegin = string.Format("pressLike({0})", @Model.Id)
+            }))
+            {
+                <input type="hidden" name="postId" value=@Html.DisplayFor(modelItem => modelItem.PostId)>
+
+                <ul class="post-footer">
+                    <li><small>@Html.DisplayFor(modelItem => modelItem.PostDate)</small></li>
+                    <li><span id="comments"><i class="fa fa-comment"></i> @Html.DisplayFor(modelItem => modelItem.CommentsNumber)</span></li>
+                    <li>
+                        <button type="submit" class="like-button">
+                            <i class="fa fa-heart"></i>
+                            @Html.DisplayFor(modelItem => modelItem.LikesNumber)
+                        </button>
+                    </li>
+                </ul>
+            }
+
+        </article>
+
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+            <input type="submit" value="Удалить">
+            <div class="back-to-list-button">
+               @Html.ActionLink("Назад", "Index", "PostsUseRest", null)
+            </div>
+        }
+    </div>
+</div>

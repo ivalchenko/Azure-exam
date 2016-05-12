@@ -1,0 +1,23 @@
+#content_container h2 {
+	text-align: center;
+	padding: 1em 0 1em 0;
+}
+
+#content_container h2 img {
+	width: 15em;
+}
+
+#content_container p {
+	padding: 0 3% 2% 3%;
+}
+
+/*New*/
+
+#content_container p a {
+	color: #0084b4;
+	text-decoration: underline;
+}
+
+#content_container p a:hover {
+	color: #55acee;
+}

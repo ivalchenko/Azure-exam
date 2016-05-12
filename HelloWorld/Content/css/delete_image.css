@@ -1,0 +1,54 @@
+h3 {
+	font-size: 1.2em;
+	border-bottom: 0.15em solid #000000;
+	width: 97%;
+	margin: 0 auto;
+	padding-bottom: 0.4em;
+	margin-bottom: 0.5em;
+}
+
+input[type="submit"] {
+	border: none;
+	background: #0084b4;
+	color: #fff;
+	display: inline-block;
+	padding: 4px 10px;
+	margin-top: 1.5%;
+	margin-left: 1.5%;
+}
+
+input[type="submit"]:hover {
+	background: #55acee;
+}
+
+.image-wrapper {
+	padding-top: 0.5%;
+	padding-left: 1.5%;
+}
+
+.image-wrapper img {
+	width: 20em;
+}
+
+/*Кнопка удаления изображения*/
+
+.back-to-list-button {
+	margin-top: 1.15em;
+	margin-left: 1.5%;
+	float: left;
+}
+
+.back-to-list-button a {
+	text-decoration: none;
+	font-size: 0.9em;
+	border: none;
+	background: #0084b4;
+	color: #fff;
+	padding: 4px 10px;
+	margin-top: 1.5%;
+}
+
+.back-to-list-button a:hover {
+	background: #55acee;
+}
+

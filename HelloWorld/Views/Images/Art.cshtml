@@ -1,0 +1,40 @@
+﻿@model IEnumerable<HelloWorld.Models.Image>
+@{
+    ViewBag.Title = "Арт";
+}
+
+<link rel="stylesheet" href="../../Content/css/art.css">
+<link rel="stylesheet" href="../../Content/css/lightbox.css">
+
+@if (Request.IsAuthenticated && User.IsInRole("admin"))
+{
+<p class="art-add-button">
+    @Html.ActionLink("Добавить", "Create")
+</p>
+}
+
+    <p id="copyright">
+        Achtung — copyright! Некоторые рисунки были срисованы с оригиналов таких интересных художников
+        как <a href="http://vk.com/neshevaulyana" title="Страница ВКонтакте" target="_blank">Ульяна Нешева</a>,
+        <a href="http://vk.com/svi_svi" title="Страница ВКонтакте" target="_blank">Анна Свирская</a>.
+    </p>
+
+    <div id="art_content">
+        @foreach (var item in Model)
+        {
+            <a href="../../Content/img/@Html.DisplayFor(modelItem => item.ImagePath)" data-lightbox=roadtrip>
+                <div class="item">
+                    <img src="../../Content/img/@Html.DisplayFor(modelItem => item.ImagePath)" alt="imgage">
+
+                    @if (Request.IsAuthenticated && User.Identity.Name=="i.valchenk@hotmail.com")
+                    {
+                        <p class="delete-art-button">
+                            @Html.ActionLink("Удалить", "Delete", new { id = item.ImageId })
+                        </p>
+                    }
+                </div>
+            </a>
+        }
+        <span></span>
+    </div>
+

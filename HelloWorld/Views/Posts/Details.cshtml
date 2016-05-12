@@ -1,0 +1,121 @@
+﻿@model HelloWorld.Models.PostComment
+@{
+    ViewBag.Title = @Html.DisplayFor(model => model.Post.Title);
+}
+
+<link rel="stylesheet" href="../../../Content/css/blog.css">
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+<script src="../../Scripts/answer.js"></script>
+
+<article class="post">
+    <h3>@Html.DisplayFor(model => model.Post.Title)</h3>
+
+    <p>@Html.DisplayFor(model => model.Post.Description)</p>
+
+   @if (ViewBag.Tags != null && ViewBag.Tags.Count > 0)
+   {
+    <ul class="tags">
+        @foreach (var tag in Model.Post.Tags)
+        {
+            <li>@Html.ActionLink("#" + tag.TagName, "ByTag", new { tagName = tag.TagName })</li>
+        }
+    </ul>
+   }
+
+    @using (Ajax.BeginForm("AJAXLike", "Posts", new AjaxOptions()
+            {
+                UpdateTargetId = "like-button",
+                InsertionMode = InsertionMode.Replace
+                //OnBegin = string.Format("pressLike({0})", @Model.Id)
+            }))
+    {
+        <input type="hidden" name="postId" value=@Html.DisplayFor(modelItem => modelItem.Post.PostId)>
+
+        <ul class="post-footer">
+            <li><small>@Html.DisplayFor(modelItem => modelItem.Post.PostDate)</small></li>
+            <li><span id="comments"><i class="fa fa-comment"></i> @Html.DisplayFor(modelItem => modelItem.Post.CommentsNumber)</span></li>
+            <li>
+                <button type="submit" class="like-button">
+                    <i class="fa fa-heart"></i>
+                    @Html.DisplayFor(modelItem => modelItem.Post.LikesNumber)
+                </button>
+            </li>
+        </ul>
+    }
+
+    <ul class="post-control-panel">
+        <li>@Html.ActionLink("Назад", "Index", "PostsUseRest", null)</li>
+
+        @if (Request.IsAuthenticated && User.IsInRole("admin"))
+        {
+            <li>@Html.ActionLink("Редактировать", "Edit", new { id = Model.Post.PostId })</li>
+            <li>@Html.ActionLink("Удалить", "Delete", new { id = Model.Post.PostId })</li>
+        }
+    </ul>
+
+    <h5>Комментарии</h5>
+
+    @if (Request.IsAuthenticated)
+    {
+        <form class="comment-create-form" method="post" action="@Url.Action("Create", "Comments")" enctype="multipart/form-data">
+            <textarea rows="5" cols="60" id="comment-textarea" name="Description" required></textarea> <br>
+            <input type="submit" value="Добавить">
+            <input type="file" name="file" accept="image/x-png, image/gif, image/jpeg">
+            <input type="checkbox" name="Visible" value="true"> Скрыть комментарий?
+            <input type="hidden" name="Visible" value="false">
+            <input type="number" style="visibility:hidden" name="PostId" value="@Html.DisplayFor(model => model.Post.PostId)"> <br>
+        </form>
+    }
+    
+    @foreach (var item in Model.Comments)
+    {
+        <div class="comment">
+            <div class="avatar-wrapper">
+                <img src="~/Content/img/avatars/default.png">
+            </div>
+
+            <div class="comment-area">
+                <p><strong>@Html.DisplayFor(modelItem => item.AuthorName)</strong><span>@Html.DisplayFor(modelItem => item.CommentDate)</span></p>
+
+                @if (Request.IsAuthenticated || item.IsVisible)
+                {
+                    <p>@Html.DisplayFor(modelItem => item.Description)</p>
+                
+                    if (Request.IsAuthenticated)
+                    {
+                        if (item.AuthorId != ViewBag.CurrentUserId)
+                        { 
+                            <a class="answer-button" onclick="module.Answer('@Html.DisplayFor(modelItem => item.AuthorName)');">
+                                Ответить
+                            </a>
+                        }
+
+                        if (item.AuthorId == ViewBag.CurrentUserId || User.IsInRole("admin"))
+                        {
+                            <form method="post" action="@Url.Action("Delete", "Comments", new { id = item.CommentId})">
+                                <input type="submit" value="Удалить">
+                            </form>
+                        }
+                    }
+                  }
+            </div>
+
+                @if (Request.IsAuthenticated || item.IsVisible)
+                {
+                    if (item.ImagePath != null)
+                    { 
+                        <div class="comment-image-wrapper">
+                           <a href="~/Content/img/@Html.DisplayFor(modelItem => item.ImagePath)">
+                              <img src="~/Content/img/@Html.DisplayFor(modelItem => item.ImagePath)">
+                           </a>
+                        </div>
+                    }
+                }
+                else
+                {
+                    <p class="hidden-message">Пользователь скрыл это сообщение от незарегистрированных пользователей.</p>
+                }
+          
+        </div>
+    }
+</article>

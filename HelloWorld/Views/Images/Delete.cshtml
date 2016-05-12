@@ -1,0 +1,23 @@
+﻿@model HelloWorld.Models.Image
+@{
+    ViewBag.Title = "Удалить изображение";
+}
+
+<link rel="stylesheet" href="../../../Content/css/delete_image.css">
+
+<h3>Вы уверены, что хотите удалить это изображение?</h3>
+
+@using (Html.BeginForm()) {
+   @Html.AntiForgeryToken()
+    
+    <div class="image-wrapper">
+        <img src="../../Content/img/@Html.DisplayFor(model => model.ImagePath)">
+    </div>
+
+    <div class="back-to-list-button">
+        @Html.ActionLink("Нет", "Art")
+    </div>
+
+     <input type="submit" value="Да">
+}
+

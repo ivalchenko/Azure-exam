@@ -1,0 +1,74 @@
+﻿@model IEnumerable<HelloWorld.Models.Post>
+@{
+    ViewBag.Title = "Блог";
+}
+
+<link rel="stylesheet" href="../../../Content/css/blog.css">
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+<script src="../../Scripts/custom/like.js"></script>
+
+@if (Request.IsAuthenticated && User.IsInRole("admin"))
+{
+<p class="post-create-button">
+   @Html.ActionLink("Создать", "Create")
+</p>
+}
+
+    @if (Model != null)
+    {
+        foreach (var item in Model)
+        {
+            <article class="post">
+                <h3>@Html.DisplayFor(modelItem => item.Title)</h3>
+                <p>@Html.DisplayFor(modelItem => item.Description)</p>
+
+                @if (@item.Tags != null && @item.Tags.Count > 0)
+                {
+                <ul class="tags">
+                    @foreach (var tag in item.Tags)
+                    {
+                        <li>@Html.ActionLink("#" + tag.TagName, "ByTag", new { tagName = tag.TagName })</li>
+                    }
+                </ul>
+                }
+
+                @using (Ajax.BeginForm("AJAXLike", "Posts", new AjaxOptions()
+                {
+                    UpdateTargetId = string.Format("Like{0}", item.PostId),
+                    InsertionMode = InsertionMode.Replace
+                    //OnBegin = "Like()"
+                }))
+                {
+                    <input type="hidden" name="postId" value=@Html.DisplayFor(modelItem => item.PostId)>
+
+                    <ul class="post-footer">
+                        <li><small>@Html.DisplayFor(modelItem => item.PostDate)</small></li>
+                        <li><span id="comments"><i class="fa fa-comment"></i> @Html.DisplayFor(modelItem => item.CommentsNumber)</span></li>
+                        <li>
+                            <button type="submit" class="like-button">
+                                <i class="fa fa-heart"></i>
+                                <span id=@string.Format("Like{0}", item.PostId)>@Html.DisplayFor(modelItem => item.LikesNumber)</span>
+                            </button>
+                        </li>
+                    </ul>
+                }
+
+                <ul class="post-control-panel">
+                    <li>@Html.ActionLink("Читать далее", "Details", new { id = item.PostId })</li>
+                    @if (Request.IsAuthenticated && User.IsInRole("admin"))
+                    {
+                        <li>@Html.ActionLink("Редактировать", "Edit", new { id = item.PostId })</li>
+                        <li class="delete-post-button">@Html.ActionLink("Удалить", "Delete", new { id = item.PostId })</li>
+                    }
+                </ul> 
+            </article>
+        }
+    }
+
+
+
+
+
+
+
+

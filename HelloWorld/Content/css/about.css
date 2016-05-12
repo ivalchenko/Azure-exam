@@ -1,0 +1,27 @@
+#content_container div {
+	width: 95%;
+	margin: 0 auto;
+}
+
+#content_container div h2 {
+	margin-bottom: 1%;
+}
+
+#content_container img {
+	width: 19em;
+	float: right;
+	margin-left: 2%
+}
+
+#content_container p {
+	margin-bottom: 1%;
+}
+
+#content_container p a {
+	color: #0084b4;
+	text-decoration: underline;
+}
+
+#content_container p a:hover {
+	color: #55acee;
+}

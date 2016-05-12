@@ -1,0 +1,174 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+	min-width: 980px;
+	max-width: 2000px;
+	margin: 0 auto;
+}
+
+/*IMG border for IE*/
+
+a img {
+	border: none;
+}
+
+.header-slogan {
+	background-color: #38383b;
+	padding: 0.6% 1% 0.6% 1%;
+	font-family: a_Monumento_DemiBold_ttf, a_Monumento_DemiBold_eot, Trebuchet MS;
+	position: fixed;
+	box-shadow: 0 0 0.3em rgba(0,0,0,0.5);
+	width: 100%;
+}
+
+.header-slogan-admin {
+	background-color: #38383b;
+	padding: 0.6% 1% 0.6% 1%;
+	font-family: a_Monumento_DemiBold_ttf, a_Monumento_DemiBold_eot, Trebuchet MS;
+	position: fixed;
+	box-shadow: 0 0 0.3em rgba(0,0,0,0.5);
+	width: 100%;
+}
+
+h1 {
+	width: 72%;
+	float: left;
+	color: #c59d5e;
+	text-align: right;
+	
+	/*background-color: red;*/
+}
+
+.header-slogan-admin h1 {
+	width: 60%;
+}
+
+/* Register & Login header's button */
+
+.loginpartial-nav {
+	width: 25%;
+	float: right;
+	list-style-type: none;
+	display: inline-block;
+	text-align: right;
+	padding-top: 0.6em;
+	padding-right: 1.8em;
+	
+	/*background-color: yellow;*/
+}
+
+.loginpartial-nav li {
+	display: inline-block;
+	margin-left: 0.5em;
+}
+
+.loginpartial-nav li a {
+	color:#d9d9d9;
+}
+
+.loginpartial-nav li a:hover {
+	color:#ffffff;
+}
+
+#header_container {
+	width: 22%;
+	float: left;
+	background-color: #ecebe9;
+	font-family: a_Monumento_DemiBold_ttf, a_Monumento_DemiBold_eot;
+	font-size: 0.9em;
+	position: fixed;
+	height: 100%;
+}
+
+header {
+	padding-top: 27%;
+	padding-bottom: 5%;
+}
+
+header a {
+	text-decoration: none;
+	color: #323236; 
+}
+
+header a img {
+	border: none;
+}
+
+#logo_container {
+	text-align: center;
+	margin-bottom: 4%;
+}
+
+#logo_container img {
+	width: 60%;
+}
+
+header nav {
+	margin-top: 0%;
+}
+
+header nav ul {
+	list-style: none;
+}
+
+header nav ul li {
+	text-align: center;
+	margin-bottom: 6%;
+	padding: 0 2% 0 2%;
+}
+
+header nav ul li a:hover {
+	color: #b05e27;
+	font-size: 1.1em;
+}
+
+header nav ul li:first-child {
+	margin-bottom: 5%;
+}
+
+header nav ul li:first-child a:hover {
+	font-size: 1em;
+}
+
+header nav ul li a img {
+	width: 2em;
+}
+
+#content_container {
+	width: 78%; 
+	float: right;
+	font-family: Europe_otf, Europe_eot, Arial;
+	font-size: 1em;
+	padding-top: 6%;
+}
+
+footer {
+	height: 100%;
+	padding: 1% 0 0.5% 0;
+	text-align: center;
+	font-family: a_Monumento_DemiBold_ttf, a_Monumento_DemiBold_eot;
+	color: #c59d5e;
+	background-color: #38383b;
+	/*Add shadow*/
+	box-shadow: 0 0 0.5em rgba(0,0,0,0.5);
+}
+
+footer a {
+	color: #c59d5e;
+}
+
+footer a:hover {
+	color: #ffa963;
+}
+
+.default-footer {
+	padding-top: 0.7em;
+	/*margin-top: 6.5em;*/
+	font-size: 1.1em;
+}
+
+
+

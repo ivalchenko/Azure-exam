@@ -1,0 +1,69 @@
+@font-face {
+font-family:'a_Monumento_DemiBold_ttf';
+src: url('../font/a_Monumento_DemiBold.ttf');
+}
+
+@font-face {
+font-family:'a_Monumento_DemiBold_eot';
+src: url('../font/a_Monumento_DemiBold_EOT.eot');
+}
+
+@font-face {
+font-family:'Europe_otf';
+src: url('../font/Europe.otf');
+}
+
+@font-face {
+font-family:'Europe_eot';
+src: url('../font/Europe_EOT.eot');
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+	min-width: 980px;
+	max-width: 2000px;
+	margin: 0 auto;
+}
+
+/*IMG border for IE*/
+
+a img {
+	border: none;
+}
+
+h1 {
+	display: block;
+	text-align: center;
+	padding: 0.6% 0 0.6% 0;
+	font-family: a_Monumento_DemiBold_ttf, a_Monumento_DemiBold_eot, Trebuchet MS;
+	box-shadow: 0 0 0.3em rgba(0,0,0,0.5);
+	background-color: #38383b;
+	color: #c59d5e;
+}
+
+#content_container {
+	padding: 2% 2% 0 2%;
+	font-family: Europe_otf, Europe_eot, Arial;
+	font-size: 1em;
+}
+
+h2 {
+	margin-top: 2%;
+}
+
+form {
+	margin-top: 2%;
+}
+
+form select {
+	font-size: 2em;
+}
+
+#art-form p {
+	margin-bottom: 0.5em;
+}
+

@@ -1,0 +1,35 @@
+﻿@{
+    ViewBag.Title = "Info";
+}
+
+<link rel="stylesheet" href="../../../Content/css/info.css">
+
+<div class="info-result-wrapper">
+    @if (ViewBag.IsFound)
+    {
+        <h4>Результат поиска для <bold>@ViewBag.Email</bold></h4>
+
+        <p>Type: <span>@ViewBag.Type</span></p>
+        <p>TypeId: <span>@ViewBag.TypeId</span></p>
+        <p>TypeName: <span>@ViewBag.TypeName</span></p>
+        <p>Url: <a href="@ViewBag.Url">@ViewBag.Url</a></p>
+        <p>Username: <span>@ViewBag.Username</span></p>
+        <p>Id: <span>@ViewBag.Id</span></p>
+
+        <ul class="post-control-panel">
+            <li>@Html.ActionLink("Назад", "Index")</li>
+        </ul>
+    }
+    else
+    {
+        <h4 class="header-not-found">К сожалению, по вашему запросу ничего не найдено.</h4>
+
+        <div class="not-found-image-wrapper">
+            <img src="../../../Content/img/not_found.png" />
+        </div>
+
+        <ul class="post-control-panel-not-found">
+            <li>@Html.ActionLink("Вернуться назад", "Index")</li>
+        </ul>
+    }
+</div>

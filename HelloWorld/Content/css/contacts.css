@@ -1,0 +1,88 @@
+#content_container div {
+	width: 95%;
+	margin: 0 auto;
+	margin-bottom: 2%;
+}
+
+#content_container #precontacts p {
+	border-bottom: 0.1em solid #e0e0e0;
+	padding-bottom: 1%;
+}
+
+#contacts p {
+	margin-bottom: 0.5%;
+}
+
+#contacts p a {
+	color: #0084b4;
+	text-decoration: underline;
+}
+
+#contacts p a:hover {
+	color: #55acee;
+}
+
+/*Message form*/
+
+$color: #000;
+$color-bg: #c0c0c0;
+
+[class*="fontawesome-"]:before {
+  font-family: 'FontAwesome', sans-serif;
+}
+
+/* ---------- GENERAL ---------- */
+
+#login p {
+	padding: 0;
+	margin: 0;
+}
+
+input {
+  background-image: none;
+  border: none;
+  font: 100%/1.5em "Varela Round", sans-serif;
+  margin: 0;
+  padding: 0;
+  transition: all .3s;
+}
+
+/* ---------- LOGIN ---------- */
+
+#contacts fieldset {
+	background: #fff;
+	border: none;
+	padding: 20px 0;
+}
+
+#contacts fieldset p {
+	color: #777;
+	margin-bottom: 14px;
+}
+
+#contacts fieldset p:last-child {
+	margin-bottom: 0;
+}
+
+#contacts fieldset input[type="text"] {
+	background: #eee;
+	color: #777;
+	padding: 4px 10px;
+}
+
+#contacts fieldset input[type="email"] {
+	background: #eee;
+	color: #777;
+	padding: 4px 10px;
+}
+
+#contacts fieldset input[type="submit"] {
+	background: #0084b4;
+	color: #fff;
+	display: block;
+	padding: 4px 10px;
+}
+
+#contacts fieldset input[type="submit"]:hover {
+	background: #55acee;
+}

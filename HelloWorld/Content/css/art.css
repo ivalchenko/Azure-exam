@@ -1,0 +1,104 @@
+.art-add-button a  {
+	display: block;
+	background: url(../img/create.png) no-repeat;
+	background-size: 3.5%;
+	padding: 0.5em 0 0.8em 2.8em;
+	margin-bottom: -1.5em;
+}
+
+.delete-art-button {
+	text-align: center;
+}
+
+#copyright {
+	padding: 0 3% 0 3%;
+	margin-top: 1.5%;
+	margin-bottom: 3%;
+}
+
+#copyright a {
+	color: #0084b4;
+	text-decoration: underline;
+}
+
+#copyright a:hover {
+	color: #55acee;
+}
+
+article img { 
+	/*margin-bottom: 2.3%;*/
+	width: 31.4%; 
+	margin-bottom: 1em;
+	border: none; 
+	margin-right: 1em;
+}
+
+/*
+#articles { 
+	padding: 0 3% 0 3%;
+}
+
+#articles a  { 
+	text-decoration: none;
+}
+
+#articles span { 
+	display:inline-block; 
+	width:100%; 
+}
+/*
+
+/*Fade image*/
+
+/*
+article a img:hover{
+opacity:0.5;
+filter:alpha(opacity=50); 
+-webkit-transition: all 0.45s ease;
+-moz-transition: all 0.45s ease;
+-ms-transition: all 0.45s ease;
+-o-transition: all 0.45s ease;
+transition: all 0.45s ease;
+}
+*/
+
+#art_content {
+	width: 95%;
+	margin: 0 auto;
+}
+
+#art_content a {
+	text-decoration: none;
+}
+
+#art_content a img:hover {
+opacity:0.5;
+filter:alpha(opacity=50); /* For IE8 and earlier */
+-webkit-transition: all 0.45s ease;
+-moz-transition: all 0.45s ease;
+-ms-transition: all 0.45s ease;
+-o-transition: all 0.45s ease;
+transition: all 0.45s ease;
+}
+
+.item {
+    float: left;
+    width: 30%;
+    margin: 0 2% 2% 0;
+    padding: 0;
+}
+ 
+.item img {
+	width: 100%;
+	border: none; 
+}
+ 
+#art_content .item:nth-child(3n+3) {
+    margin-right: 0;
+}
+
+#art_content span {
+	display: block;
+	clear: both; 
+	float: none;
+}

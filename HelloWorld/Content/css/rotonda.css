@@ -1,0 +1,44 @@
+#rotonda {
+	margin-bottom: 2%;
+}
+
+#rotonda h2 {
+	text-align: center;
+	margin-bottom: 2.1%;
+}
+
+#rotonda h2 img {
+	width: 28%;
+}
+
+#rotonda p {
+	margin-bottom: 1%;
+	padding: 0 3% 0 3%;
+}
+
+#contact {
+	width: 32%;
+	float: left;
+	margin-right: 5%;
+	margin-bottom: 5%;
+	padding-left: 3%;
+}
+
+#contact h2 {
+	padding-bottom: 2%;
+	margin-bottom: 2%;
+	border-bottom: 1px solid #dbdbdb;
+}
+
+#contact p {
+	margin-bottom: 1%;
+}
+
+#contact p a {
+	color: #0084b4;
+	text-decoration: underline;
+}
+
+#contact p a:hover {
+	color: #55acee;
+}

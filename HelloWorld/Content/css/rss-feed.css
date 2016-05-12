@@ -1,0 +1,53 @@
+.rss-feed-wrapper {
+	padding: 0 2% 0 2%;
+}
+
+#content_container p {
+	padding: 0px 0% 1%;
+}
+
+#content_container p a {
+	font-size: 1.1em;
+}
+
+h4 {
+	margin-bottom: 1%;
+	font-size: 1.1em;
+}
+
+hr {
+	margin-bottom: 2%;
+}
+
+input {
+	margin-top: 0.3em;
+	background: #e0dfdf;
+	color: #777;
+	padding: 4px 10px;
+	border: none;
+	border-left: 1em solid #55acee;
+}
+
+input:focus {
+	border-left: 1em solid #0084b4;
+	background-color: #eee;
+}
+
+.form-group {
+	margin-bottom: 1%;
+}
+
+input[type="submit"] {
+	background: #0084b4;
+	color: #fff;
+	display: block;
+	padding: 4px 10px;
+	margin-top: 1.5%;
+	border: none;
+}
+
+input[type="submit"]:hover {
+	background: #55acee;
+}
+
+

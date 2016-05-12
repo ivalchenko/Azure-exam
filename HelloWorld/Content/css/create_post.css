@@ -1,0 +1,105 @@
+h4 {
+	font-size: 1.2em;
+	border-bottom: 0.15em solid #000000;
+	width: 97%;
+	margin: 0 auto;
+	padding-bottom: 0.4em;
+	margin-bottom: 0.5em;
+}
+
+.form-group {
+	padding-left: 1.5%;
+}
+
+input {
+	border: none;
+	width: 25em;
+	padding: 0.4em 1em 0.4em 1em;
+	background-color: #d9d9d9;
+	border-left: 1em solid #55acee;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+input:focus {
+	border-left: 1em solid #0084b4;
+	background-color: #e0dfdf;
+}
+
+textarea {
+	width: 50%;
+	border: none;
+	padding: 1em 0 0 1em;
+	background-color: #d9d9d9;
+	border-left: 1em solid #0084b4;
+	margin-top: 0.5em;
+}
+
+textarea:focus {
+	border-left: 1em solid #55acee;
+	background-color: #e0dfdf;
+}
+
+input[type="submit"] {
+	border: none;
+	background: #0084b4;
+	color: #fff;
+	display: block;
+	padding: 4px 10px;
+	margin-top: 1.5%;
+	width: 6em;
+}
+
+input[type="submit"]:hover {
+	background: #55acee;
+}
+
+.post-create-button {
+	padding-left: 1.5%;
+}
+
+.back-to-list-button {
+	padding-left: 1.5%;
+	margin-top: 0.7em;
+}
+
+.back-to-list-button-edit {
+	padding-left: 1.5%;
+	margin-top: 0.7em;
+}
+
+.back-to-list-button a {
+	text-decoration: none;
+	font-size: 0.9em;
+	border: none;
+	background: #0084b4;
+	color: #fff;
+	padding: 4px 21px;
+	margin-top: 1.5%;
+}
+
+.back-to-list-button-edit a {
+	text-decoration: none;
+	font-size: 0.9em;
+	border: none;
+	background: #0084b4;
+	color: #fff;
+	padding: 4px 28px;
+	margin-top: 1.5%;
+}
+
+.back-to-list-button a:hover {
+	background: #55acee;
+}
+
+.back-to-list-button-edit a:hover {
+	background: #55acee;
+}
+
+input[name="Date"] {
+	visibility: hidden;
+}
+
+input[name="PostId"] {
+	visibility: hidden;
+}

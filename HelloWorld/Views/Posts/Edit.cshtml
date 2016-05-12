@@ -1,0 +1,47 @@
+﻿@model HelloWorld.Models.EditPostView
+@{
+    ViewBag.Title = "Редактировать";
+}
+
+<link rel="stylesheet" href="../../../Content/css/create_post.css">
+<link rel="stylesheet" href="../../../Content/css/select.css">
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="create-post-form">
+        <h4>Редактирование</h4>
+
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.PostId)
+
+        <div class="form-group">
+            <strong>Заголовок</strong>
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Title, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Title, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <strong>Описание</strong>
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Description, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Description, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="post-create-button">
+            <input type="submit" value="Сохранить">
+        </div>
+
+        <div class="back-to-list-button-edit">
+            @Html.ActionLink("Назад", "Index", "PostsUseRest", null)
+        </div>
+    </div>
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
